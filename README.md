@@ -1,4 +1,4 @@
-# 🍽️ Cooks Delight
+# Cooks Delight
 
 Cooks Delight is a modern cooking and recipe website built with React.  
 The project was developed as a university session project and demonstrates the use of component-based architecture, client-side routing, responsive layout, and clean UI design inspired by contemporary food blogs.
@@ -10,13 +10,13 @@ upd .1
 Its first version with a lot of bugs that needs to fix in a future.
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
  ```https://KYKAGM.github.io/cooking-recipe/```
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Cooks Delight focuses on presenting culinary content in a visually appealing and structured way.  
 The project emphasizes:
@@ -30,7 +30,7 @@ It is designed primarily for educational purposes but follows real-world fronten
 
 ---
 
-## ✨ Features
+## Features
 
 - Hero section 
 - Featured recipes section with detailed cards
@@ -43,7 +43,7 @@ It is designed primarily for educational purposes but follows real-world fronten
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React** (Create React App)
 - **React Router DOM**
@@ -56,7 +56,7 @@ It is designed primarily for educational purposes but follows real-world fronten
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 cooking-recipe/
