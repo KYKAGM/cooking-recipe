@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cooking-recipe/static/css/main.61994d0b.css",
+    "main.js": "/cooking-recipe/static/js/main.e3815ad0.js",
+    "static/media/hero.png": "/cooking-recipe/static/media/hero.919358e5d55f5b6e5974.png",
+    "static/media/Roboto.ttf": "/cooking-recipe/static/media/Roboto.33c6cdbc694881567da1.ttf",
+    "static/media/Montserrat-ExtraBold.ttf": "/cooking-recipe/static/media/Montserrat-ExtraBold.0eac3d0f226f458230a2.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/cooking-recipe/static/media/Montserrat-SemiBold.2f7a846126c7d5ee9163.ttf",
+    "static/media/caprese.jpg": "/cooking-recipe/static/media/caprese.a8a3e25c36408775e4d3.jpg",
+    "static/media/beshbarmak.jpg": "/cooking-recipe/static/media/beshbarmak.0d9d6808ccc977910fb3.jpg",
+    "static/media/github.png": "/cooking-recipe/static/media/github.987334e9f782cc505f25.png",
+    "static/media/badge.png": "/cooking-recipe/static/media/badge.8b5f6b32eaf66dcf7327.png",
+    "index.html": "/cooking-recipe/index.html",
+    "main.61994d0b.css.map": "/cooking-recipe/static/css/main.61994d0b.css.map",
+    "main.e3815ad0.js.map": "/cooking-recipe/static/js/main.e3815ad0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61994d0b.css",
+    "static/js/main.e3815ad0.js"
+  ]
+}
