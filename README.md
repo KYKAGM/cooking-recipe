@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+# 🍽️ Cooks Delight
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Cooks Delight is a modern cooking and recipe website built with React.  
+The project was developed as a university session project and demonstrates the use of component-based architecture, client-side routing, responsive layout, and clean UI design inspired by contemporary food blogs.
 
-## Available Scripts
+The application allows users to explore featured recipes, browse food categories, and navigate between pages in a smooth single-page application experience.
 
-In the project directory, you can run:
 
-### `npm start`
+upd .1
+Its first version with a lot of bugs that needs to fix in a future.
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🌐 Live Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ ```https://KYKAGM.github.io/cooking-recipe/```
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📌 Project Overview
 
-### `npm run build`
+Cooks Delight focuses on presenting culinary content in a visually appealing and structured way.  
+The project emphasizes:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- modular React components  
+- reusable UI elements  
+- clear project architecture  
+- deployment using GitHub Pages  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+It is designed primarily for educational purposes but follows real-world frontend development practices.(I'm IITU student)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## ✨ Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Hero section 
+- Featured recipes section with detailed cards
+- Recipe categories with icons
+- Client-side navigation using React Router
+- Footer subscription form (mock logic) with gradient background animation
+- Smooth hover animations
+- Responsive design for desktop and mobile devices (Will fix it soon)
+- Online deployment via GitHub Pages
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛠️ Tech Stack
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **React** (Create React App)
+- **React Router DOM**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
+- **Bootstrap**
+- **Git & GitHub**
+- **GitHub Pages** (deployment)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📂 Project Structure
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+cooking-recipe/
+├── public/
+│   └── index.html
+│
+├── src/
+│   ├── assets/
+│   │   ├── images/
+│   │   ├── icons/
+│   │   └── fonts/
+│   │
+│   ├── components/
+│   │   ├── hero/
+│   │   ├── layout/
+│   │   ├── recipes/
+│   │   └── ui/
+│   │
+│   ├── data/
+│   │   └── recipes.jsx
+│   │
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Recipes.jsx
+│   │   ├── RecipePage.jsx
+│   │   └── About.jsx
+│   │
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── index.css
+│
+└── package.json
+```
