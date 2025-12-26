@@ -1,21 +1,36 @@
 {
   "files": {
-    "main.css": "/cooking-recipe/static/css/main.61994d0b.css",
-    "main.js": "/cooking-recipe/static/js/main.e3815ad0.js",
+    "main.css": "/cooking-recipe/static/css/main.f5735efc.css",
+    "main.js": "/cooking-recipe/static/js/main.2f5a4d9b.js",
     "static/media/hero.png": "/cooking-recipe/static/media/hero.919358e5d55f5b6e5974.png",
+    "static/media/allergy.jpg": "/cooking-recipe/static/media/allergy.692bf0f316ea8dec4c9c.jpg",
+    "static/media/knife.jpg": "/cooking-recipe/static/media/knife.012abab1ed03f544d48d.jpg",
+    "static/media/gluten.jpg": "/cooking-recipe/static/media/gluten.60093c4e3630b6df1c13.jpg",
+    "static/media/plant.jpg": "/cooking-recipe/static/media/plant.01b885e25b53097ce724.jpg",
+    "static/media/herbs.jpg": "/cooking-recipe/static/media/herbs.41bb815f97293226ddef.jpg",
+    "static/media/spices.jpg": "/cooking-recipe/static/media/spices.4444834ce14a3cda62d0.jpg",
+    "static/media/saute.jpg": "/cooking-recipe/static/media/saute.41e8e5c32e34869de6a7.jpg",
+    "static/media/storage.jpg": "/cooking-recipe/static/media/storage.0c2e713c49338c771930.jpg",
+    "static/media/roast.jpg": "/cooking-recipe/static/media/roast.2e62a32ba43a5bea8c5c.jpg",
     "static/media/Roboto.ttf": "/cooking-recipe/static/media/Roboto.33c6cdbc694881567da1.ttf",
     "static/media/Montserrat-ExtraBold.ttf": "/cooking-recipe/static/media/Montserrat-ExtraBold.0eac3d0f226f458230a2.ttf",
     "static/media/Montserrat-SemiBold.ttf": "/cooking-recipe/static/media/Montserrat-SemiBold.2f7a846126c7d5ee9163.ttf",
+    "static/media/caprese2.jpg": "/cooking-recipe/static/media/caprese2.97b2853143727e87ef80.jpg",
+    "static/media/plov.jpg": "/cooking-recipe/static/media/plov.25d6d178c2e77c62d73e.jpg",
     "static/media/caprese.jpg": "/cooking-recipe/static/media/caprese.a8a3e25c36408775e4d3.jpg",
     "static/media/beshbarmak.jpg": "/cooking-recipe/static/media/beshbarmak.0d9d6808ccc977910fb3.jpg",
+    "static/media/egg.jpg": "/cooking-recipe/static/media/egg.79eb23708bbff60d2e10.jpg",
+    "static/media/medovik.jpg": "/cooking-recipe/static/media/medovik.90519239dbff11962452.jpg",
+    "static/media/manty2.jpg": "/cooking-recipe/static/media/manty2.5adb875f6f4712348e15.jpg",
+    "static/media/manty.jpg": "/cooking-recipe/static/media/manty.6617e69f5e626732a892.jpg",
     "static/media/github.png": "/cooking-recipe/static/media/github.987334e9f782cc505f25.png",
     "static/media/badge.png": "/cooking-recipe/static/media/badge.8b5f6b32eaf66dcf7327.png",
     "index.html": "/cooking-recipe/index.html",
-    "main.61994d0b.css.map": "/cooking-recipe/static/css/main.61994d0b.css.map",
-    "main.e3815ad0.js.map": "/cooking-recipe/static/js/main.e3815ad0.js.map"
+    "main.f5735efc.css.map": "/cooking-recipe/static/css/main.f5735efc.css.map",
+    "main.2f5a4d9b.js.map": "/cooking-recipe/static/js/main.2f5a4d9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.61994d0b.css",
-    "static/js/main.e3815ad0.js"
+    "static/css/main.f5735efc.css",
+    "static/js/main.2f5a4d9b.js"
   ]
 }
