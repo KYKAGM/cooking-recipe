@@ -5,15 +5,18 @@ function Footer() {
     return (
     <footer className="footer">
         <div className="footer-top">
+        <Link to="https://www.youtube.com/embed/dQw4w9WgXcQ">
         <div className="logo-wb">
                 <span className="footer-logo"></span>
-            </div>
+            
+        </div>
+        </Link>
 
         <nav className="footer-nav">
             <Link to="/">HOME</Link>
             <Link to="/recipes">RECIPES</Link>
             <Link to="/tips">COOKING TIPS</Link>
-            <Link to="/about">ABOUT US</Link>
+            <Link to="/about">NEWS</Link>
         </nav>
 
         <div className="footer-socials">
