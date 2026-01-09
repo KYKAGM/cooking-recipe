@@ -6,9 +6,12 @@ The project was developed as a university session project and demonstrates the u
 The application allows users to explore featured recipes, browse food categories, and navigate between pages in a smooth single-page application experience.
 
 
-upd .1
+## upd .1
 Its first version with a lot of bugs that needs to fix in a future.
-upd .2 
+
+---
+
+## upd .2 
 -I added page with global cooking news instead of page about us.News updates works with API
 -Added recipes pages with 6 recipes with working filter.
 -Fixed some bugs with recipes pages 
