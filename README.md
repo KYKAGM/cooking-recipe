@@ -8,6 +8,10 @@ The application allows users to explore featured recipes, browse food categories
 
 upd .1
 Its first version with a lot of bugs that needs to fix in a future.
+upd .2 
+-I added page with global cooking news instead of page about us.News updates works with API
+-Added recipes pages with 6 recipes with working filter.
+-Fixed some bugs with recipes pages 
 ---
 
 ## Live Demo
